@@ -1,2 +1,2 @@
-1. Download the zip file and extract.
+1. Download the swarail.7z file and extract.
 2. Install swarail.apk
